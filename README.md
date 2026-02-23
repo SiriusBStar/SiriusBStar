@@ -1,8 +1,5 @@
 # 🌠 Welcome to Sirius B Star 👽
 
-## 📺 YouTube
-* [Channel](https://www.youtube.com/channel/UCHtZ5fg4ePEqwK3wmxRkiHw)
-
 ## 💻 Programming
 * Java
 * Flutter (Dart)
@@ -38,3 +35,7 @@
 * Atom
 * Colab
 * Arduino
+
+## 📺 SNS
+* [Linkedin](https://www.linkedin.com/in/siriusbstar/)
+* [Youtube](https://www.youtube.com/channel/UCHtZ5fg4ePEqwK3wmxRkiHw)
