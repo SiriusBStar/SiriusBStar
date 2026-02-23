@@ -4,7 +4,6 @@
 * Java
 * Flutter (Dart)
 * Android (Java)
-* Unity (C#)
 * Node.js
 * Python
 * Unity (C#)
