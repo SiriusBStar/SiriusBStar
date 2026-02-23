@@ -10,7 +10,8 @@
 * Unity (C#)
 * Node.js
 * Python
-* Q#
+* Unity (C#)
+* LLM
 
 ## 🎮 Dev
 * Web
@@ -22,9 +23,8 @@
 ## 🎨 Design / UI / UX
 * Photoshop
 * Illustrator
-* Adobe XD
+* Figma
 * Rive
-* Blender
 
 ## 🎞 Video Editor
 * Vegas Pro
