@@ -1,13 +1,14 @@
 # 🌠 Welcome to Sirius B Star 👽
 
 ## 💻 Programming
-* Java
+* Java (Spring)
 * Flutter (Dart)
 * Android (Java)
-* Python
-* Node.js
+* Python (FastAPI)
+* Node.js (Express)
 * Unity (C#)
 * LLM
+* DBMS (PostgreSQL, MySQL, Oracle, DB2, MSSQL)
 
 ## 🎮 Dev
 * Web
